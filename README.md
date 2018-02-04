@@ -1,4 +1,4 @@
-# ThePowerOfParallelWithNUnit
+# The Power Of Parallel With NUnit
 ### Code examples to accompany http://matthewthomas.tech/nunit-parallel/
 
 ![full-nunit-demo](http://matthewthomas.tech/content/images/2018/02/full-nunit-demo.gif)
